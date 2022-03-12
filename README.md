@@ -1,2 +1,6 @@
-# dio-desafio-github-preimeiro-reposi
-Desafio de projeto sobre Git/Github
+# Desafio de Projeto sobre Git/Github
+Repositório criado para Desafio de projeto.
+
+
+## Links úteis
+[Sintase básica Markdow](https://www.markdownguide.org/)
