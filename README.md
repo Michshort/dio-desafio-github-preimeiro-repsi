@@ -1,2 +1,2 @@
-# dio-desafio-github-preimeiro-repsi
-Desafio de projeto sobre git/github
+# dio-desafio-github-preimeiro-reposi
+Desafio de projeto sobre Git/Github
